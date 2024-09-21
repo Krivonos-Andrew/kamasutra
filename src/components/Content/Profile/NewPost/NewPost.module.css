@@ -1,0 +1,27 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2em;
+    background-color: #C9CDD1;
+}
+
+.text {
+    width: 70%;
+    height: 1.5em;
+    padding: 1em;
+    margin: 0 auto;
+    font-size: 1.5em;
+    color: #213547;
+    border: 2px solid #747bff;
+}
+
+.button {
+    margin: 0 auto;
+}
+
+.btn {
+    margin-top: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: min-content;
+}

@@ -1,0 +1,14 @@
+.app {
+    /*max-height: 10em;*/
+    display: inline-flex;
+    color: aqua;
+    grid-area: h;
+    background-color: gainsboro;
+    border: 3px solid #D0D0D0;
+}
+
+.app img {
+    max-width: 7em;
+    display: flex;
+    align-items: center;
+}

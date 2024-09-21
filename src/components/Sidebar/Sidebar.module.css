@@ -1,0 +1,16 @@
+.wrap {
+    grid-area: s;
+    background-color: #213547;
+    color: #f9f9f9;
+    text-align: left;
+    font-size: 2em;
+}
+
+.wrap nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1em;
+}
+.activeLink {
+    color: chartreuse;
+}

@@ -1,0 +1,14 @@
+.wrap {
+    display: inline-flex;
+}
+
+.avatar {
+    width: 10em;
+    height: 10em;
+
+}
+
+.avatar img {
+
+    border-radius: 50%;
+}

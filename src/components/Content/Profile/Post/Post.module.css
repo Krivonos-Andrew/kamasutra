@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.wrap {
+    display: flex;
+    padding-right: 2em;
+    padding-left: 2em;
+    align-items: center;
+    gap: 5em;
+    background-color: chartreuse;
+    border-radius: 2em;
+    /*font-size: 1.5em;*/
+}
+
+.wrap img {
+    width: 5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-radius: 50%;
+}
+
+.wrap span {
+    margin-left: auto;
+    background-color: #646cff;
+}
